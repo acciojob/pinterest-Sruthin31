@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+.hero{
+	display:flex;
+	justify-content:flex-start;
+		align-items:left;
+}
+.image{
+	width:60%;
+		height:100%;
+	object-fit:cover;
+	
+}
+.btn{
+	text-align:center;
+}
+.explore-btn{
+	border-radius:6px;
+	background-color:red;
+	padding:12px 25px;
+	text-decoration:none;
+	color:white;
+}
